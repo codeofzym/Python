@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><ThemeMetaData FormatVersion="5.1.0" TargetPlatform="ANDROID" ToolVersion="9.0.36.4" crunchVersion="1">
+    <Project Author="yiran" IsDefaultPackageName="false" MetadataType="v2020" PkgName="cn.themeclub.yiran.ClassicBusiness" PkgType="Theme" ThemeName="Classic Business" VersionCode="100" VersionName="V1.0.100"/>
+    <ThemeModel EndDate="Fri May 22 2020 21:26:00 GMT+0800 (中国标准时间)" IsAddSPlanner="False" IsRepeat="False" Name="Permanent" StartDate="Fri May 22 2020 21:26:00 GMT+0800 (中国标准时间)" UID="themewebc6f173d0-9c2f-11ea-aca6-cdc1197aeae7">
+        <MenuInfoSet>
+            <MenuInfo SelectedIndex="0" UID="StatusTextColor"/>
+            <MenuInfo ColorValue="#FFD400A4" UID="COMMON_COLOR_PRIMARY_COLOR"/>
+            <MenuInfo ColorValue="#FF0D0F0F" UID="COMMON_TEXTCOLOR_PRIMARY_TEXT"/>
+            <MenuInfo ColorValue="#FF1DD2B3" UID="COMMON_TEXTCOLOR_HIGHLIGHT_TEXT_COLOR"/>
+            <MenuInfo ColorValue="#FFC11D11" UID="COMMON_TEXTCOLOR_ERROR_TEXT_COLOR"/>
+            <MenuInfo ColorValue="#FF9FA4A5" UID="COMMON_TEXTCOLOR_SELECTION_BACKGROUND_COLOR"/>
+            <MenuInfo ColorValue="#FF988484" UID="COMMON_TEXTCOLOR_SECONDARY_TEXT"/>
+            <MenuInfo ColorValue="#FF0D0D0D" UID="COMMON_ACTIONBAR_TITLE_TEXT_COLOR"/>
+            <MenuInfo ImageValue="&lt;WORKSPACE&gt;/IM/2829f2b0-9c3c-11ea-aca6-cdc1197aeae7.jpg" UID="HOMESCREEN_WALLPAPER_DEFAULTHOMESCREENWALLPAPER_DEFAULT"/>
+            <MenuInfo ImageValue="&lt;WORKSPACE&gt;/IM/7dd085d0-9c3c-11ea-aca6-cdc1197aeae7.jpg" UID="LOCKSCREEN_WALLPAPER_WALLPAPERTYPE_STATIC_LOCK_WALLPAPER_DEFAULT_DEFAULT"/>
+            <MenuInfo SelectedIndex="0" UID="WallpaperType"/>
+            <MenuInfo ImageValue="&lt;WORKSPACE&gt;/IM/8580e810-9c3c-11ea-aca6-cdc1197aeae7.jpg" UID="HOMESCREEN_WALLPAPER_DEFAULTHOMESCREENWALLPAPER_DEFAULT1"/>
+            <MenuInfo ColorValue="#FF2DAC23" UID="COMMON_ACTIONBAR_BACKGROUND_COLOR_COLOR"/>
+            <MenuInfo ColorValue="#FFDBE321" UID="1-18-1"/>
+            <MenuInfo ColorValue="#FFFFFFFF" UID="COMMON_COLOR_CARD_TEXT_BUTTON"/>
+            <MenuInfo ColorValue="#B2181717" UID="COMMON_ACTIONBAR_SUBTITLE_TEXT_COLOR"/>
+            <MenuInfo ColorValue="#B2252222" UID="COMMON_CONTENTAREA_SUB_HEADER_TEXT_COLOR_TYPE2"/>
+            <MenuInfo ColorValue="#FFB7A6A6" UID="COMMON_CONTENTAREA_SCROLL_BAR_COLOR"/>
+            <MenuInfo ColorValue="#190B0A0A" UID="COMMON_CONTENTAREA_RIPPLEPRESSED_EFFECT_COLOR"/>
+            <MenuInfo ColorValue="#FFD3C8C8" UID="COMMON_CONTENTAREA_LIST_DIVIDER_COLOR"/>
+            <MenuInfo FileValue="fonts/numericclock/Suave.ttf" UID="COMMON_FONT_NUMERIC_TYPE"/>
+            <MenuInfo FileValue="fonts/numericclock/Pithy.ttf" UID="COMMON_FONT_CLOCK_TYPE"/>
+            <MenuInfo ColorValue="#FFA6AB23" UID="COMMON_DIALOG_BACKGROUND_COLOR"/>
+            <MenuInfo SelectedIndex="0" UID="COMMON_DIALOG_BACKGROUND_CHOICE"/>
+            <MenuInfo ColorValue="#FFC7BEBE" UID="COMMON_DIALOG_SCROLL_BAR_COLOR"/>
+            <MenuInfo ColorValue="#FF3A85E1" UID="COMMON_CONTROLS_RADIO_ON"/>
+            <MenuInfo SelectedIndex="0" UID="COMMON_CONTROLS_RADIO_CHECK_ON"/>
+            <MenuInfo ColorValue="#CC827A7A" UID="COMMON_CONTROLS_RADIO_OFF"/>
+            <MenuInfo ColorValue="#FFD7D0D0" UID="COMMON_CONTROLS_INDEXSCROLLBAR_SCROLLBARBACKGROUNDCOLOR_M"/>
+            <MenuInfo ColorValue="#FF373232" UID="COMMON_CONTROLS_INDEXSCROLLBAR_INDEX_TEXT_COLOR_M"/>
+            <MenuInfo ColorValue="#FFBE7A49" UID="COMMON_TAB_SELECTED_TAB_TEXT_COLOR"/>
+            <MenuInfo ColorValue="#FF8A8585" UID="COMMON_TAB_UNSELECTED_TAB_TEXT_COLOR"/>
+            <MenuInfo SelectedIndex="1" UID="CommonPhotoIDMasking"/>
+            <MenuInfo ColorValue="#FFCDC4C4" UID="COMMON_PHOTOID_ALPHABET_AND_STROKE_COLOR"/>
+            <MenuInfo ColorValue="#FF726B6B" UID="1-32-3-1"/>
+            <MenuInfo ColorValue="#FF726B6B" UID="1-32-3-2"/>
+            <MenuInfo ColorValue="#FF726B6B" UID="1-32-3-3"/>
+            <MenuInfo ColorValue="#FF726B6B" UID="1-32-3-4"/>
+            <MenuInfo Choice="Color" Color="#FFDF610C" UID="COMMON_BADGEICON_BACKGROUND"/>
+            <MenuInfo ColorValue="#FFEBE2E2" UID="COMMON_BADGEICON_TEXT_COLOR"/>
+            <MenuInfo ColorValue="#FFE2D6D6" UID="COMMON_SEARCHBAR_BACKGROUND_COLOR"/>
+            <MenuInfo ColorValue="#FF242222" UID="COMMON_SEARCHBAR_INPUT_TEXT_COLOR"/>
+            <MenuInfo SelectedIndex="0" UID="HomeIconShadow"/>
+            <MenuInfo SelectedIndex="0" UID="HomeIconTrayRange"/>
+            <MenuInfo ImageValue="&lt;WORKSPACE&gt;/IM/723405e0-9da8-11ea-8fba-5367a93ffd50.png" UID="HOMESCREEN_APPICONS_ICONIMAGE_CONTACTS"/>
+            <MenuInfo ImageValue="&lt;WORKSPACE&gt;/IM/259db320-9da8-11ea-8fba-5367a93ffd50.png" UID="HOMESCREEN_APPICONS_ICONIMAGE_MUSIC"/>
+            <MenuInfo ImageValue="&lt;WORKSPACE&gt;/IM/3d2ff0c0-9da8-11ea-8fba-5367a93ffd50.png" UID="HOMESCREEN_APPICONS_ICONIMAGE_GALLERY"/>
+            <MenuInfo ImageValue="&lt;WORKSPACE&gt;/IM/5c40ab30-9da8-11ea-8fba-5367a93ffd50.png" UID="HOMESCREEN_APPICONS_ICONIMAGE_VIDEO"/>
+            <MenuInfo Choice="Color" Color="#FF030303" UID="BACKGROUNDTEXT_BACKGROUND"/>
+            <MenuInfo ImageValue="&lt;WORKSPACE&gt;/IM/8b401240-9da8-11ea-8fba-5367a93ffd50.png" UID="REPRESENTATIVE_ICONS"/>
+            <MenuInfo StringValue="Phone:8-4-1-1|Contacts:8-4-1-2|Messages:8-4-1-3|Calendar:8-4-1-9|Clock:8-4-1-10|Email:8-4-1-5|Calculator:8-4-1-17|Gallery:8-4-1-7|Settings:8-4-1-11|Apps:8-4-1-29|Camera:8-4-1-6|DMB:8-4-1-32|Device Care:8-4-1-18|Galaxy Themes:8-4-1-41|Galaxy Wearable:8-4-1-37|Internet:8-4-1-4|Music:8-4-1-8|My Files:8-4-1-14|PEN.UP:8-4-1-45|Radio:8-4-1-33|Samsung Health:8-4-1-15|Samsung Members:8-4-1-43|Samsung Notes:8-4-1-34|Samsung Pay:8-4-1-38|Side Sync:8-4-1-36|Smart Things:8-4-1-47|Video:8-4-1-16|Voice Recorder:8-4-1-31" UID="REPRESENTATIVE_TEXT"/>
+            <MenuInfo SelectedIndex="0" UID="LockClockFont"/>
+            <MenuInfo ColorValue="#FFF7F2F2" UID="LOCKSCREEN_GENERAL_CLOCKFONT_NUMBERFONT_NUMBERFONT_FONT_COLOR"/>
+            <MenuInfo SelectedIndex="0" UID="LockClockShadow"/>
+            <MenuInfo ColorValue="#66090909" UID="LOCKSCREEN_GENERAL_DATE_SHADOW_COLOR"/>
+            <MenuInfo ColorValue="#FFF0E9E9" UID="LOCKSCREEN_GENERAL_DATE_TEXT_COLOR"/>
+            <MenuInfo ColorValue="#FFF0E8E8" UID="LOCKSCREEN_GENERAL_HELP_GUIDE_FONT_COLOR"/>
+            <MenuInfo ColorValue="#FFBEB4B4" UID="HOMESCREEN_APPICONS_APP_ICON_LABEL_COLOR"/>
+            <MenuInfo ColorValue="#FF833737" UID="NOTIFICATIONPANEL_NOTIFICATIONPANEL_BACKGROUND"/>
+            <MenuInfo ColorValue="#FF312020" UID="4-4-1"/>
+            <MenuInfo ColorValue="#FFE6DADA" UID="4-2-1"/>
+            <MenuInfo ColorValue="#66484242" UID="4-2-2"/>
+            <MenuInfo ColorValue="#FF2829D0" UID="4-2-3"/>
+            <MenuInfo ColorValue="#FFAF8585" UID="4-2-4"/>
+            <MenuInfo Choice="Color" Color="#FF714646" UID="PHONE_DIALER_BACKGROUND_M"/>
+            <MenuInfo Choice="Color" Color="#FFDFCCCC" UID="MESSAGES_CONVERSATIONVIEW_BACKGROUND"/>
+            <MenuInfo ColorValue="#FF877979" UID="MESSAGES_CONVERSATIONVIEW_DATE_DIVIDER_COLOR"/>
+            <MenuInfo ColorValue="#FF198B8D" UID="MESSAGES_BUBBLE_SENT_NORMAL_COLOR"/>
+            <MenuInfo ColorValue="#FFD3C7C7" UID="MESSAGES_BUBBLE_RECEIVED_NORMAL_COLOR"/>
+            <MenuInfo ColorValue="#FF2E76B1" UID="MESSAGES_BUBBLE_SENT_RCS_NORMAL_COLOR"/>
+            <MenuInfo ColorValue="#FF312E2E" UID="BUBBLE_TEXT_COLOR"/>
+            <MenuInfo ColorValue="#FFDFCDCD" UID="BUBBLE_TEXT_COLOR_SENT"/>
+            <MenuInfo ColorValue="#FF103DE1" UID="BUBBLE_LINK_TEXT_COLOR"/>
+            <MenuInfo ColorValue="#FFDFC787" UID="BUBBLE_LINK_TEXT_COLOR_SENT"/>
+            <MenuInfo SelectedIndex="0" UID="ColorForButton"/>
+            <MenuInfo ColorValue="#FFDBCCCC" UID="KEYBOARD_BUTTONS_BUTTONIMAGE_NORMAL_KEY_COLOR"/>
+            <MenuInfo ColorValue="#FF9FA6BD" UID="KEYBOARD_BUTTONS_BUTTONIMAGE_OPTION_KEY_COLOR"/>
+            <MenuInfo ColorValue="#FF7F849B" UID="KEYBOARD_BUTTONS_BUTTONIMAGE_PRESSED_KEY_COLOR"/>
+            <MenuInfo ColorValue="#FF1E84A9" UID="KEYBOARD_BUTTONS_BUTTONIMAGE_CAPS_LOCK_KEY_COLOR"/>
+            <MenuInfo ColorValue="#FFB5BBC8" UID="KEYBOARD_BACKGROUND_COLOR"/>
+            <MenuInfo ColorValue="#FF0F0C0C" UID="KEYBOARD_BACKGROUNDTEXT_MAIN_TEXT_COLOR"/>
+            <MenuInfo ColorValue="#FF140E0E" UID="KEYBOARD_BACKGROUNDTEXT_SECONDARY_TEXT_COLOR"/>
+            <MenuInfo ColorValue="#FFE5D8D8" UID="HONEYBOARD_BUTTONS_BUTTONIMAGE_NORMAL_KEY_COLOR"/>
+            <MenuInfo ColorValue="#FFA39393" UID="HONEYBOARD_BUTTONS_BUTTONIMAGE_OPTION_KEY_COLOR"/>
+            <MenuInfo ColorValue="#FFAC9C9C" UID="HONEYBOARD_BUTTONS_BUTTONIMAGE_PRESSED_KEY_COLOR"/>
+            <MenuInfo ColorValue="#FFDFD2D2" UID="SPLANNER_MONTH_TODAY_TEXT_COLOR"/>
+            <MenuInfo ColorValue="#FF0A705A" UID="SPLANNER_MONTHA_TODAY_CIRCLE_COLOR"/>
+            <MenuInfo ColorValue="#FFEF6166" UID="SPLANNER_MONTHA_TODAY_HOLIDAY_CIRCLE_COLOR"/>
+            <MenuInfo ColorValue="#FFEBDEDE" UID="CLOCK_STOPWATCH_STOP_BUTTON_TEXT_COLOR"/>
+            <MenuInfo ColorValue="#FFC3B4B4" UID="CLOCK_STOPWATCH_LAP_BUTTON_TEXT_COLOR"/>
+            <MenuInfo ColorValue="#99D1C6C6" UID="CALCULATOR_CALCULATOR_KEYPADBACKGROUND_COLOR_NUMBER"/>
+            <MenuInfo ColorValue="#FF398DEB" UID="SETTINGS_ITEM_COLOR_1"/>
+            <MenuInfo ColorValue="#FF7974C4" UID="SETTINGS_ITEM_COLOR_2"/>
+            <MenuInfo ColorValue="#FF6E9217" UID="SETTINGS_ITEM_COLOR_3"/>
+            <MenuInfo ColorValue="#FFA03BCA" UID="SETTINGS_ITEM_COLOR_4"/>
+        </MenuInfoSet>
+    </ThemeModel>
+</ThemeMetaData>
