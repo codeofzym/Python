@@ -124,7 +124,8 @@ def main():
     sys.setdefaultencoding('utf-8')
     path = os.path.join(os.getcwd(), "data")
     huawei = HuaweiTheme(path)
-    info = huawei.get_description_info()
+    # info = huawei.get_description_info()
+    info = huawei.get_theme_info("com.android.contacts", huawei.ZIP_TMP_FOLDER_NAME)
     print str(info)
 
     exit()
