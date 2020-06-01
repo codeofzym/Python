@@ -11,7 +11,8 @@ import zipfile
 from xml.etree.ElementTree import ElementTree,Element
 from xml.dom import minidom
 
-import Sansung
+from samsung_theme import SamsungTheme
+from huawei_theme import HuaweiTheme
 
 def ReadExcelData(path, sheetIndex):
     if os.path.exists(path):
@@ -121,6 +122,12 @@ def dealDescriptionXml(format, map, newConfig):
 def main():
     reload(sys)
     sys.setdefaultencoding('utf-8')
+    path = os.path.join(os.getcwd(), "data")
+    huawei = HuaweiTheme(path)
+    info = huawei.get_description_info()
+    print str(info)
+
+    exit()
     tmpPath = os.getcwd() + "/tmp"
     if not os.path.exists(tmpPath):
         os.makedirs(tmpPath)
@@ -144,7 +151,7 @@ def main():
     print str(format)
     dealDescriptionXml(format, map, newConfig)
 
-    sansung = Sansung(configPath)
+    samsung = SamsungTheme(configPath)
 
 
 
